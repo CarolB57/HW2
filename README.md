@@ -1,5 +1,5 @@
 
-### Homework 2: Implementando e Estendendo a Aplicação RottenPotatoes
+### Implementando e Estendendo a Aplicação RottenPotatoes
 
 **Aluna:** Caroline Bohadana Rodrigues Viana
 
