@@ -2,6 +2,7 @@
 ### Homework 2: Implementando e Estendendo a Aplicação RottenPotatoes
 
 **Aluna:** Caroline Bohadana Rodrigues Viana
+
 **Matrícula:** 232050975
 
 A aplicação foi construída com o uso do framework **Ruby (3.4.6) on Rails (8.0.2.1)**, seguindo as orientações apresentadas no livro Engineering Software as a Service: An Agile Approach Using Cloud Computing Second Edition, de Armando Fox and David Patterson, capítulo 4: SaaS Framework: Rails as a Model–View–Controller Framework, e seguindo o padrão de arquitetura **Model-View-Controller (MVC)**. O objetivo é criar uma página web capaz de listar filmes de um banco de dados e permitir que o usuário os liste por título ou data de lançamento.
